@@ -3,8 +3,7 @@ td {
     font-size: 2em;
 }
 
-* {
-    
-   text-align: center;
-   
+.center {
+    margin-left: auto;
+    margin-right: auto;
 }
